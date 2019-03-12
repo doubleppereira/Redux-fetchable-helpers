@@ -1,0 +1,29 @@
+{
+  "name": "redux-fetchable-helpers",
+  "version": "1.0.0",
+  "description": "Helpers to reduce redux boilerplate of fetching data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oizie/Redux-fetchable-helpers.git"
+  },
+  "keywords": [
+    "redux",
+    "react",
+    "fetch",
+    "reducer",
+    "actions"
+  ],
+  "author": "Pedro Pereira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oizie/Redux-fetchable-helpers/issues"
+  },
+  "homepage": "https://github.com/oizie/Redux-fetchable-helpers#readme",
+  "dependencies": {
+    "redux-saga": "^1.0.2"
+  }
+}
